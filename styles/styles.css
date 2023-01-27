@@ -1,0 +1,10 @@
+.edit-text {
+    box-sizing: border-box;
+    position: absolute;
+    resize: none;
+}
+
+.btns-container {
+    position: absolute;
+    display: flex;
+}
